@@ -1,0 +1,38 @@
+---
+title: "Cars Linear regression project"
+author: "Aiden Tan, Brody, Steve"
+date: "2022-12-05"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction of Data
+
+
+# Research Question 1
+**Is there a difference in price between the locations after accounting for mileage?**
+
+## Exploratory data analysis
+
+## Fit model
+
+## Conclusion
+
+# Research Question 2
+**Is there a difference in price between the locations after accounting for mileage and age?**
+
+## Exploratory data analysis
+
+## Fit model
+
+## Conclusion
+
+# Research Question 2
+**What is the best predictor for predicting price**
+
+# Summary
+
+# Reference
