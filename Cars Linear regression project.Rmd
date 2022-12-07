@@ -265,13 +265,13 @@ Now! we are not only consider mileage, but also consider age. We will add three 
 
 \fontsize{12}{12}
 \begin{center}
-MODEL FOR PENNSYLVANIA:$y=(\beta_0+\beta_2)+\beta_1x_{1}+\beta_3x_3$
+MODEL FOR PENNSYLVANIA:$y=(\beta_0+\beta_1)+\beta_2x_{2}+\beta_3x_3$
 \end{center}
 \fontsize{12}{12}
 
 \fontsize{12}{12}
 \begin{center}
-MODEL FOR NEWYORK: $y=\beta_0+\beta_1x_{1}+\beta_3x_3$
+MODEL FOR NEWYORK: $y=\beta_0+\beta_2x_{2}+\beta_3x_3$
 \end{center}
 \fontsize{12}{12}
 
